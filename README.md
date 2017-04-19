@@ -1,6 +1,6 @@
 # npmtest-cordova-custom-config
 
-#### test coverage for  [cordova-custom-config (v3.1.4)](https://github.com/dpa99c/cordova-custom-config#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-custom-config.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-custom-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-custom-config.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-custom-config)
+#### basic test coverage for  [cordova-custom-config (v3.1.4)](https://github.com/dpa99c/cordova-custom-config#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-custom-config.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-custom-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-custom-config.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-custom-config)
 
 #### Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml.
 
